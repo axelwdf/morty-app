@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/morty-app/static/css/main.ebe8be75.css",
+    "main.js": "/morty-app/static/js/main.6a4ab55f.js",
+    "index.html": "/morty-app/index.html",
+    "main.ebe8be75.css.map": "/morty-app/static/css/main.ebe8be75.css.map",
+    "main.6a4ab55f.js.map": "/morty-app/static/js/main.6a4ab55f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe8be75.css",
+    "static/js/main.6a4ab55f.js"
+  ]
+}
