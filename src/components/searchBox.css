@@ -1,0 +1,33 @@
+.SearchBox{
+    background-image: url(https://wallpapercave.com/wp/wp1822745.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    font-family: 'monospace', sans-serif ;
+    padding: 3rem;
+}
+.input{
+    text-align: center;
+    border: none;
+    border-radius: 1rem;
+    background-color: hsla(0, 0%, 100%, 0.500);
+    width: 20rem;
+    height: 2.5rem;
+}
+.button{
+    border: none;
+    border-radius: 1rem;
+    width: 5rem;
+    height: 2.5rem;
+    background-color: hsla(0, 0%, 100%, 0.500);
+    transition: 1s linear;
+}
+.button:active{
+    transform: scale(-1);
+}
+
+@media all and  (min-width:700px){
+    .SearchBox{
+        padding: 5rem;
+    }
+}

@@ -1,0 +1,40 @@
+body{
+    background-color:#191919 ;
+}
+.Resident-Info{
+    background-color: #CF112B;
+    width: 100%;
+    border: 2px solid #fff;
+    border-radius: 0.5rem;
+    color: #000;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 1rem auto;
+    padding: 2rem;
+    transition: 1.5s all;
+}
+.Resident-Info:active{
+    transform: scale(-1);
+}
+.img{
+    width:  20vh;
+    height: 20vh;
+    margin: 1rem auto;
+    border-radius: 50%;
+}
+.dates-container{
+    margin: 1rem auto;
+}
+.dates{
+    padding: .5rem;
+}
+p{
+    font-size: 12px;
+}
+
+@media all and (min-width: 630px ){
+    .Resident-Info{
+        width: auto;
+        height: auto;
+    }
+}

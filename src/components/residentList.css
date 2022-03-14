@@ -1,0 +1,11 @@
+.Resident-List{
+    display: grid;
+    gap: .5rem;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+@media all and (min-width: 500px){
+    .Resident-List{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
