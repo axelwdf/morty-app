@@ -4,7 +4,7 @@ import React from 'react';
 const LocationInfo = ({ricks, list}) =>{
     return(
         <div className="LocationInfo">
-            <h1>Nombre: {ricks.name} </h1>
+            <h1 className='title-h1' >Nombre: {ricks.name} </h1>
             <div className="LocationInfo-Ch">
                 <p> <b>  Id: <span className='span-ch' >{ricks.id}</span> </b> </p>
                 <p> Tipo: <span className='span-ch' >{ricks.type}</span> </p>
