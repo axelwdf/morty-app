@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/morty-app/static/css/main.ebe8be75.css",
-    "main.js": "/morty-app/static/js/main.6a4ab55f.js",
+    "main.css": "/morty-app/static/css/main.12e697f8.css",
+    "main.js": "/morty-app/static/js/main.f7316581.js",
     "index.html": "/morty-app/index.html",
-    "main.ebe8be75.css.map": "/morty-app/static/css/main.ebe8be75.css.map",
-    "main.6a4ab55f.js.map": "/morty-app/static/js/main.6a4ab55f.js.map"
+    "main.12e697f8.css.map": "/morty-app/static/css/main.12e697f8.css.map",
+    "main.f7316581.js.map": "/morty-app/static/js/main.f7316581.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebe8be75.css",
-    "static/js/main.6a4ab55f.js"
+    "static/css/main.12e697f8.css",
+    "static/js/main.f7316581.js"
   ]
 }
